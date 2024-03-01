@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+/* add a new font named lemon */
+@font-face {
+  font-family: 'lemon';
+  src: url('../src/assets/Lemon/Lemon-Regular.ttf');
+}
+@font-face {
+  font-family: 'salsa';
+  src: url('../src/assets/Salsa/Salsa-Regular.ttf');
+}
